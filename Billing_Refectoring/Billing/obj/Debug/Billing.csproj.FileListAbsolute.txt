@@ -1,0 +1,12 @@
+E:\Task\Billing_Refectoring\Billing\bin\Debug\Billing.dll
+E:\Task\Billing_Refectoring\Billing\bin\Debug\Billing.pdb
+E:\Task\Billing_Refectoring\Billing\obj\Debug\Billing.csproj.AssemblyReference.cache
+E:\Task\Billing_Refectoring\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+E:\Task\Billing_Refectoring\Billing\obj\Debug\Billing.dll
+E:\Task\Billing_Refectoring\Billing\obj\Debug\Billing.pdb
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\bin\Debug\Billing.dll
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\bin\Debug\Billing.pdb
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\obj\Debug\Billing.csproj.AssemblyReference.cache
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\obj\Debug\Billing.dll
+E:\Task\NageshDuggempudi\Billing_Refectoring\Billing\obj\Debug\Billing.pdb

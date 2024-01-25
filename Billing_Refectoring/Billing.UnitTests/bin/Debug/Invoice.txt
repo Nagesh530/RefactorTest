@@ -1,0 +1,8 @@
+Date: 25-01-2024
+Name: Joe Customer
+Address: London
+
+Description					Quantity	Price
+1 Harry Potter books		1			8
+4 Harry Potter books		2			25.60
+Total: 59.20
